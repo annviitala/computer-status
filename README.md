@@ -9,7 +9,7 @@ DESCRIPTION
 4. A congratulatory message will appear when a player has won.
 5. Winning times counter will be displayed also.
 
-#instalation-instruction
+# instalation-instruction
 INSTALLATION INSTRUCTION
 1. Download the three (3) files:
    index.html,
