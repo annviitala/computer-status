@@ -1,9 +1,9 @@
 (function() {
   'use strict'
   //change "yourkey" with your own key
-  let url = "https://opendata.tamk.fi/r1/computerstatus/computers/?apiKey="
+  let url = "https://opendata.tamk.fi/r1/computerstatus/computers/?apiKey=yourkey"
   
-  /*function assemble that page content once loaded
+  /*function that assembles the page content once loaded
   */
 
   function Ready () {
