@@ -3,11 +3,18 @@ Computer Status
 
 # description
 DESCRIPTION
-1. The player can choose board size but, the minimun board size is 3 x 3 and it must be a perfect square.
-2. The game can be played by two (2) human players or can be played against the computer.
-3. An error messages will be displayed when player provides wrong input or choices.
-4. A congratulatory message will appear when a player has won.
-5. Winning times counter will be displayed also.
+1. This is an app that displays the status, room code, computer name, campus and campus area of various computers in TAMK.
+2. The page initially shows select option for room code and status.
+2. The default table display is an empty table body and shows only the header of the table.
+3. The user selects from the room code.
+4. The user selects from the status.
+
+EXAMPLE
+1. User select from "Room Code : M4-12"
+2. The table will be updated.
+3. Table body displays rows of data pertaining to M4-12
+4. User selects from "Status : Free"
+5. Table body will be again updated to show "free-" computers from room code "M4-12"
 
 # instalation-instruction
 INSTALLATION INSTRUCTION
@@ -17,7 +24,7 @@ INSTALLATION INSTRUCTION
    style.css
    Note: make all three (3) are in the same local directory/folder
 2. Open the index.html file using chosen browser. 
-   Example
+   Example (windows 10 os)
    2a. Right click index.html file.
    2b. Select "open with"
    2c. Select "chrome"
