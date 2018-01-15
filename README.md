@@ -39,4 +39,4 @@ FUTURE PLANS
 LICENSE
 This program is a free software.  Redistribution and/or modification is permitted under GNU General Public License v3.0 or any subsequent version.
 
-This program is mainly for educational purposes and does not warrant its fitness for commercial game production capabilities.
+This program is mainly for educational purposes and does not warrant its fitness for commercial production capabilities.
