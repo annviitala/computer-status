@@ -3,11 +3,14 @@ Computer Status
 
 # description
 DESCRIPTION
-1. This is an app that displays the status, room code, computer name, campus and campus area of various computers in TAMK.
+1. This is an app that displays the status, room code, computer name, campus and campus area of various computers in TAMK
 2. The page initially shows select option for room code and status.
-2. The default table display is an empty table body and shows only the header of the table.
-3. The user selects from the room code.
-4. The user selects from the status.
+3. The default table display is an empty table body and shows only the header of the table.
+4. The user selects from the room code.
+5. The user selects from the status.
+
+# Technology
+1. Html, css, javascript, DOM, ajax, json
 
 EXAMPLE
 1. User select from "Room Code : M4-12"
